@@ -50,7 +50,7 @@ Saran yang dapat diberikan yaitu agar dapat memperdalam lagi materi mengenai kec
 link github: https://github.com/D4TI3C/Yanda-Rizky-Prasetiya-1144004
 
 Nama : yanda rizky prasetiya
-
+   
 NPM : 1144004
 
 Kelas : 3C
