@@ -32,10 +32,10 @@ Efisien lebih kearah melakukan sesuatu dengan benar atau bisa dikatakan tepat gu
 
 melakukan sesuatu yang sesuai dengan apa yang diinginkan atau tapat sasaran atau bisa juga di artikan melakukan sesuatu yang benar.
 
-**Dibawah ini terdapat contoh hasil kode aritmatika perhitungan dengan menggunakan bahasa python yang diinput dengan huruf dan outputnya hasil dan durasi waktu pemrosesan.
+Dibawah ini terdapat contoh hasil kode aritmatika perhitungan dengan menggunakan bahasa python yang diinput dengan huruf dan outputnya hasil dan durasi waktu pemrosesan.
 
 <p align="center">
-  <img src="../../img/cm.PNG" width="400px">
+  <img src="../../img/cm.PNG" width="500px">
 
 **PENUTUP**
 
