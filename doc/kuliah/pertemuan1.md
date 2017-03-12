@@ -28,7 +28,7 @@ AI biasanya dihubungkan dengan Ilmu Komputer, akan tetapi juga terkait erat deng
 
 Efisien lebih kearah melakukan sesuatu dengan benar atau bisa dikatakan tepat guna
 
-1. Efektif
+2. Efektif
 
 melakukan sesuatu yang sesuai dengan apa yang diinginkan atau tapat sasaran atau bisa juga di artikan melakukan sesuatu yang benar.
 
@@ -54,7 +54,7 @@ Prodi : D4 Teknik Informatika
 
 Mata Kuliah : Kecerdasan Buatan
 
-link mata kuliah: www.awangga.net
+link mata kuliah: http://kampus.awangga.net/home/kelassistemmultimediadankecerdasanbuatan2017
 
 referensi: https://id.wikipedia.org/wiki/Kecerdasan_buatan
 
