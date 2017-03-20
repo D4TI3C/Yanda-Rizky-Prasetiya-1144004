@@ -23,6 +23,11 @@
 
 **Fakta adalah** suatu hal,peristiwa,kejadian yang terjadi secara nyata dan sesuatu yang benar-benar terjadi. Contoh : Yanda adalah laki – laki. Jika di bahasa pemrograman contohnya : laki – laki (Yanda).
 
+Dibawah ini terdapat contoh hasil kode rute perjalanan dengan menggunakan bahasa python yang diinput dengan rute awal dan rute akhir sedangkan outputnya rute perjalanan awal sampai akhir.
+
+<p align="center">
+  <img src="../../img/cm2.PNG" width="500px">
+
 **PENUTUP**
 
 **KESIMPULAN**
