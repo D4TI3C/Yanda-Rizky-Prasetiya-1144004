@@ -43,9 +43,9 @@ link mata kuliah: http://kampus.awangga.net/home/kelassistemmultimediadankecerda
 
 referensi: 1. http://pbsabn.lecture.ub.ac.id/2012/05/penalaran-manusia/
 	   
-	   2. http://lutfiatulm.blogspot.co.id/2013/03/representasi-pengetahuan.html
+	   2. http://lutfiatulm.blogspot.co.id/2013/03/representasi-pengetahuan.html  
 
-Scan plagiarisme:
+Scan plagiarisme :
 
 1. https://drive.google.com/open?id=0ByZqhNt9UFJ2RTZYYnhUakdDNVU
 
