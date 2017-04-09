@@ -21,29 +21,29 @@ RESUME PERTEMUAN 4 KECERDASAN BUATAN
 
 **Contoh :**
 
-**Permasalahan :  **** Petani, Sayur, Kambing dan **** Serigala yang menyebrang**
+**Permasalahan :   Petani, Sayur, Kambing dan  Harimau yang menyebrang**
 
 Contoh kasusnya adalah permasalahan petani, harimau, ayam, dan gabah. Petani ingin memindahkan dirinya sendiri, harimau, ayam, dan gabah menyebrangi sungai. Tapi perahunya hanya bisa membawa petani dan satu penumpang lainnya. Petani juga tidak bisa meninggalkan harimau dan ayam dalam satu tempat karena harimau akan memangsa ayam, dan petani juga tidak bisa meninggalkan ayam dengan gabah dalam satu tempat.
 
-**Penyelesaian :**
+Penyelesaian :
 
-**Identifikasi ruang keadaan**
+Identifikasi ruang keadaan
 
   Permasalahan ini dapat dilambangkan dengan:
 
 (kambing, harimau, Sayuran, Boat).
 
-** Keadaan Awal**
+Keadaan Awal
 
 - Daerah asal: (1,1,1,1)
 - Daerah seberang: (0,0,0,0)
 
-** Tujuan**
+Tujuan
 
 - Daerah asal: (0,0,0,0)
 - Daerah seberang: (1,1,1,1)
 
-** Aturan**
+Aturan
 
 | Aturan Ke- | Aturan |
 | --- | --- |
@@ -52,10 +52,10 @@ Contoh kasusnya adalah permasalahan petani, harimau, ayam, dan gabah. Petani ing
 | 3 | Serigala Menyebrang |
 | 4 | Kambing Kembali |
 | 5 | Sayuran Kembali |
-| 6 | Serigala Kembali |
+| 6 | Harimau Kembali |
 | 7 | Boat Kembali |
 
-** Penyelesaian**
+Penyelesaian
 
 | **Daerah Asal** | **Daerah Tujuan** | **Aturan Yang Digunakan** |
 | --- | --- | --- |
@@ -71,9 +71,7 @@ Contoh kasusnya adalah permasalahan petani, harimau, ayam, dan gabah. Petani ing
 
 **KESIMPULAN**
 
-Ruang Keadaan adalah cara mendefinisikan permasalahan ke dalam bentuk representasi algoritma.Terdapat cara-cara untuk mempresentasikan ruang keadaan Graf Keadaan,
-
-Pohon Keadaan, dan Pohon AND/OR.
+Ruang Keadaan adalah cara mendefinisikan permasalahan ke dalam bentuk representasi algoritma.Terdapat cara-cara untuk mempresentasikan ruang keadaan Graf Keadaan, Pohon Keadaan, dan Pohon AND/OR.
 
 **Saran**
 
