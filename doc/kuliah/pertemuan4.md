@@ -49,7 +49,7 @@ Aturan
 | --- | --- |
 | 1 | Kambing Menyebrang |
 | 2 | Sayur Menyebrang |
-| 3 | Serigala Menyebrang |
+| 3 | Harimau Menyebrang |
 | 4 | Kambing Kembali |
 | 5 | Sayuran Kembali |
 | 6 | Harimau Kembali |
