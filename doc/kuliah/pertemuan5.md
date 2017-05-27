@@ -23,13 +23,13 @@ Fonetik dan fonologi merupakan pengetahuan yang digunakan untuk mendeteksi suara
 
 Contoh : Siri, Cortana, Google Assitant dan lain sebagainya.
 
-1. Morfologi
+2. Morfologi
 
 Morfologi merupakan pengetahuan tentang pembentukan kata dari kata dasar.
 
 Contoh : menyanyi -&gt; me-nyanyi.
 
-1. Sintaksis
+3. Sintaksis
 
 Sintaksis merupakan pengetahuan tentang pembentukan urutan kata dalam kalimat atau pembentukan aturan baku sebuah kalimat.
 
@@ -37,21 +37,21 @@ Contoh :
 
 Ibu sedang membuat kue
 
-S                P                   O
+S            P       O
 
-1. Semantik
+4. Semantik
 
 Semantik mempelajari suatu arti kata dan arti kata tersebut membentuk suatu arti dari kalimat yang utuh.
 
-1. Pragmantik
+5. Pragmantik
 
 Pragmatik merupakan pengetahuan yang berorientasi pada tujuan dan situasi pembuatan sistem.
 
-1. Discourse Knowledge
+6. Discourse Knowledge
 
 Discourse Knowledge yaitu kalimat sebelumnya akan berpengaruh ke kalimat selanjutnya.
 
-1. World Knowledge
+7. World Knowledge
 
 World Knowledge mencakup arti khusus suatu kalimat.
 
