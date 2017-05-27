@@ -63,7 +63,7 @@ Pertama, install terlebih dahulu pyaudio yang digunakan untuk menginput micropon
 
 **Pip install pyaudio**
 
-Selanjutnya install  **PocketSphinx untuk menggunakan ** Sphinx recognizer.
+Selanjutnya install  **PocketSphinx untuk menggunakan** Sphinx recognizer.
 
 **Pip install wheel**
 
@@ -106,9 +106,9 @@ link mata kuliah: http://kampus.awangga.net/home/kelassistemmultimediadankecerda
 
 referensi: 1. https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_natural_language_processing.htm
 
-           2. http://entin.lecturer.pens.ac.id/Kecerdasan%20Buatan/Buku/Bab%205%20Natural%20Language%20Processing.pdf 
+	   2. http://entin.lecturer.pens.ac.id/Kecerdasan%20Buatan/Buku/Bab%205%20Natural%20Language%20Processing.pdf 
 
-	   3. https://pypi.python.org/pypi/SpeechRecognition/
+  	   3. https://pypi.python.org/pypi/SpeechRecognition/
 
 Scan plagiarisme :
 
